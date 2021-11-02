@@ -1,7 +1,7 @@
 # Projeto F.A.Q. // F.A.Q. Project
-<p>Desafio proposto no final do módulo "Gerenciamento de estados com Vuex", do bootcamp fullstack da Cataline, para treinar os conhecimentos recém adquiridos usando <strong>Vuex</strong> e <strong>transição de componentes</strong>. </p>
+<p>Desafio proposto no final do módulo "Gerenciamento de estados com Vuex", do bootcamp fullstack da Cataline, para treinar os conhecimentos recém adquiridos usando <strong>Vuex</strong> e <strong>transição de componentes</strong>.</br> Obs.: <em>Projeto desenvolvido para funcionar somente em tela mobile.</em> </p>
 
-<p>Challenge proposed at the end of the module "State management with Vuex" in Cataline's fullstack bootcamp, to train the newly acquired knowledge using <strong>Vuex</strong> and <strong>component transition</strong>. </p>
+<p>Challenge proposed at the end of the module "State management with Vuex" in Cataline's fullstack bootcamp, to train the newly acquired knowledge using <strong>Vuex</strong> and <strong>component transition</strong>.</br> Ps.:<em> Project developed to work only on mobile screen.</em> </p>
 
 ## 🛠 Ferramentas // Used tools
 <ul>
